@@ -1,4 +1,4 @@
-clear |
+clear 
 ls -l
 clear
 mkdir uday book paper
@@ -55,3 +55,4 @@ git commit -m "this is first change"
 git log
 cd
 clear
+    
