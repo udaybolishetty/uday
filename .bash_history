@@ -1,4 +1,4 @@
-clear
+clear |
 ls -l
 clear
 mkdir uday book paper
